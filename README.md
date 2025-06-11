@@ -40,7 +40,7 @@ CVision is a desktop application written in PyQt6 + pyqtgraph used to:
 
 3. Select the type of measurement (Oxidation/Reduction).
 
-4. Load the data with the “Select data file” button..
+4. Load the data with the “Select data file” button.
 
 5. Optionally smooth the data (do not increase the window >15).
 
