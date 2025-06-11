@@ -21,6 +21,7 @@ CVision is a desktop application written in PyQt6 + pyqtgraph used to:
    ```bash
    git clone https://github.com/StarGate3/cv-cyclic-voltammetry.git
    cd cv-cyclic-voltammetry
+   ```
 
 2. Create and activate a virtual environment:
     python -m venv venv
